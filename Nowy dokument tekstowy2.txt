@@ -1,0 +1,205 @@
+<!DOCTYPE>
+<title> Kraków, mała ojczyzna </title>
+<html lang="pl">
+
+<head>
+<meta charset="UTF-8">
+<title><b><BLINK><FONT COLOR="blue"> Kraków, 3h</FONT></BLINK></b></title>
+
+
+
+     <body bgcolor="#86CDF6">
+          <header>
+                <h1> Moje miasto Kraków</h1>
+          </header>
+ 
+ <p>
+         <b> Kraków</b> <b><i>Kraków to jedno z najstarszych i najważniejszych miast w Polsce, położone w południowej części kraju, nad rzeką Wisłą. Jest stolicą województwa małopolskiego oraz jednym z głównych ośrodków kulturalnych, naukowych i turystycznych w Polsce. Miasto ma bogatą historię, która sięga czasów średniowiecza. Kraków był przez wiele wieków stolicą Polski i siedzibą polskich królów, a dziś jest jednym z najchętniej odwiedzanych miejsc w kraju, znanym na całym świecie.</i> </b>
+ </p>
+ <hr>
+ <hr2> Podział administracyjny Krakowa </hr2>
+ </hr>
+ <p>
+ Od 27 marca 1991 Kraków podzielony jest na 18 dzielnic oznaczonych cyframi rzymskimi i nazwami.
+ </p>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Krak%C3%B3w_dzielnice_blank.svg/600px-Krak%C3%B3w_dzielnice_blank.svg.png" alt="Podział Administracyjny Krakowa">
+ 
+ </html lang=>
+ 
+ 
+                 
+				 <article>
+                             <main>
+							 <ul>
+							 <figure>
+							 <figcaption><li> Dzielnice Krakowa</li> </figcaption>
+							 </figure>
+							 <ul>
+							 
+							 <table border=1>
+							       <tr>
+								        <td> Dzielnice </td>
+										<th> Liczba stałych mieszkańców</th>
+										<th> Powierzchnia[ha]</th>
+									</tr>	
+									 <tr>
+								        <th> Dzielnica I Stare Miasto</th>
+										<td> 27 668</td>
+										<td> 556,76</td>
+									</tr>	
+									 <tr>
+								        <th> Dzielnica II Grzegórzki</th>
+										<td> 29 570</td>
+										<td> 584,52	</td>
+									</tr>	
+									<tr>
+								        <th> Dzielnica III Prądnik Czerwony</th>
+										<td> 45 103</td>
+										<td> 643,79</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica IV Prądnik Biały</th>
+										<td> 72 386</td>
+										<td> 2341,87</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica V Krowodrza</th>
+										<td>  29 038</td>
+										<td> 561,9</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica VI Bronowice</th>
+										<td> 24 344</td>
+										<td> 1354</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica VII Zwierzyniec</th>
+										<td> 20 160</td>
+										<td> 2873,1</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica VIII Dębniki</th>
+										<td> 64 972</td>
+										<td> 4618,87</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica IX Łagiewniki-Borek Fałęcki</th>
+										<td> 15 236</td>
+										<td> 541,51</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica X Swoszowice</th>
+										<td> 29 011</td>
+										<td> 2560,4</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XI Podgórze Duchackie</th>
+										<td> 53 592</td>
+										<td> 954</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XII Bieżanów-Prokocim</th>
+										<td> 62 661</td>
+										<td> 1847,39</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XIII Podgórze</th>
+										<td> 40 411</td>
+										<td> 2566,71</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XIV Czyżyny</th>
+										<td> 33 585</td>
+										<td> 1225,68</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XV Mistrzejowice</th>
+										<td> 50 458</td>
+										<td> 559</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XVI Bieńczyce</th>
+										<td> 37 219</td>
+										<td> 369,9</td>
+									</tr>
+									<tr>
+								        <th> Dzielnica XVII Wzgórza Krzesławickie</th>
+										<td> 19 892</td>
+										<td> 2381,55</td>
+									</tr>
+									<tr>
+										<th> Dzielnica XVIII Nowa Huta</th>
+										<td> 46 581 </td>
+										<td> 6540,99</td>
+									
+							 </table>
+									<p> <sup> Wykaz dzielnic administracyjnych Krakowa przedstawia dane z 31 grudnia 2023 </sup> </p>
+						<footer> 
+									<p> 
+										Źródło   
+												<a href=" https://pl.wikipedia.org/wiki/Podzia%C5%82_administracyjny_Krakowa" target="_blank">
+												podziału administracyjnego Krakowa.
+												</a>
+										</p>
+						</footer>
+						</article>
+						</main>
+				
+				
+
+
+
+	 
+	 <main>
+	 <figure>
+		<figcaption> <li> <b> Krakowiaczek jeden </b> </li> </figcaption>
+	</figure>
+	<ul>
+	<p> 
+			Krakowiaczek jeden<br>
+		miał koników siedem,<br>
+		pojechał na wojnę,<br>
+		został mu się jeden.<br>
+		</p>
+		
+		<p>
+		 Siedem lat wojował,<br>
+		szabli nie wyjmował,<br>
+		szabla zardzewiała,<br>
+		wojny nie widziała.<br>
+		</p>
+		<p> 
+		 Krakowianka jedna<br>
+		miała chłopca z drewna,<br>
+		a dziewczynkę z wosku,<br>
+		wszystko po krakowsku.<br>
+		</p>
+		<p> 
+		 Krakowiaczek ci ja,<br>
+		krakowskiej natury,<br>
+		kto mi wejdzie w drogę,<br>
+		ja na niego z góry.<br>
+		
+		</p>
+		<p> 
+		 Krakowiaczek ci ja,<br>
+		któż nie przyzna tego,<br>
+		siedemdziesiąt kółek,<br>
+		u pasika mego.<br>
+		
+		</p>
+		<p> 
+		 Gra mi wciąż muzyka,<br>
+		a kółka trzepocą,<br>
+		jak małe księżyce<br>
+		w blasku się migocą.<br>
+		</p>
+		</ul>
+	<img src="original.jpg" widht="500" height="500"" alt="Jerzy Kossak, Wesele krakowskie ">|
+	<p> <sup> Jerzy Kossak, "Wesele krakowskie" </sup> <p>
+	
+	</body>
+</html>
+	
+		 
+				
